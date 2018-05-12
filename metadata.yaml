@@ -1,0 +1,33 @@
+_repo: Boat-Building-and-Boating_44228
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44228-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Beard, Daniel Carter
+    aliases:
+    - Beard, D. C. (Daniel Carter)
+    - Beard, Dan
+    birthdate: 1850
+    deathdate: 1941
+    gutenberg_agent_id: '8612'
+    url: http://www.gutenberg.org/2009/agents/8612
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Carter_Beard
+description: Details construction and operation dos and don'ts for everything from
+  simple rafts and birch-bark canoes to a small sailboat and a speedy motor-boat.
+  Plans require minimal skills.
+gutenberg_issued: '2013-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boatbuilding'
+- !lcc 'VM'
+- !lcsh 'Boats and boating'
+title: Boat-Building and Boating
+url: http://www.gutenberg.org/ebooks/44228
